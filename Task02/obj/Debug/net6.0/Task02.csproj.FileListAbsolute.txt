@@ -1,0 +1,15 @@
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\bin\Debug\net6.0\Task02.exe
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\bin\Debug\net6.0\Task02.deps.json
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\bin\Debug\net6.0\Task02.runtimeconfig.json
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\bin\Debug\net6.0\Task02.dll
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\bin\Debug\net6.0\Task02.pdb
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\Task02.csproj.AssemblyReference.cache
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\Task02.AssemblyInfoInputs.cache
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\Task02.AssemblyInfo.cs
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\Task02.csproj.CoreCompileInputs.cache
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\Task02.dll
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\refint\Task02.dll
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\Task02.pdb
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\Task02.genruntimeconfig.cache
+G:\Мой диск\Обучение Geekbrains\3 Знакомство с языками программирования\ДЗ\Seminar1_HomeWork\Task02\obj\Debug\net6.0\ref\Task02.dll
